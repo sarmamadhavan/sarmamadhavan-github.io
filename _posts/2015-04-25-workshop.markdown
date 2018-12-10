@@ -1,0 +1,11 @@
+---
+title:  "Leafy"
+subtitle: "UNDEREXPOSED now a days called MOODY"
+author: "Wferr"
+avatar: "img/authors/wferr.png"
+image: "img/leaf.jpg"
+date:   2015-04-25 12:12:12
+---
+<img class= "card__container--fix-image" src="img/leaf.jpg"
+     alt="leafy"
+     />

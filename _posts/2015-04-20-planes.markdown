@@ -1,0 +1,14 @@
+---
+title:  "Time flies"
+subtitle: "Sometimes I used to get back in time"
+author: "Wferr"
+avatar: "img/authors/wferr.png"
+image: "img/childhood.jpg"
+date:   2015-04-20 12:12:12
+---
+
+### Dolor sit amet?
+
+<img class= "card__container--fix-image" src="img/childhood.jpg"
+     alt="twokind"
+     />
